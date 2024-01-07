@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaiSabaresh1673
-- 👀 I’m interested in 3rd year CSE 
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning Web development and c++ with DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
