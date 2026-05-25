@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaiSabaresh1673
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning Web development and c++ with DSA
+- 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
